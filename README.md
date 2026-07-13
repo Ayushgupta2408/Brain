@@ -47,6 +47,9 @@ the app detects and falls back from automatically.
    hash of the query, so repeated questions resolve instantly.
 
 ---
+<img width="831" height="1891" alt="ChatGPT Image Jul 13, 2026, 03_39_18 PM" src="https://github.com/user-attachments/assets/a4594e9c-b373-4231-b5df-3a41041bde2a" />
+
+---
 
 ## Quick start (local, no Docker)
 
