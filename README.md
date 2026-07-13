@@ -96,10 +96,10 @@ docker compose up --build
 | `JWT_SECRET` | ✅ | — |
 | `PORT` | ❌ | `5000` |
 | `CLIENT_ORIGIN` | ❌ | `http://localhost:5173` |
-| `MONGO_URI` | ❌ | `mongodb://localhost:27017/brain` |
-| `REDIS_URL` | ❌ | in-memory fallback |
-| `QDRANT_URL` | ❌ | in-memory fallback |
-| `GROQ_MODEL` | ❌ | `llama-3.3-70b-versatile` |
+| `MONGO_URI` | ✅ | `mongodb://localhost:27017/brain` |
+| `REDIS_URL` | ✅ | in-memory fallback |
+| `QDRANT_URL` | ✅ | in-memory fallback |
+| `GROQ_MODEL` | ✅ | `llama-3.3-70b-versatile` |
 
 ---
 
