@@ -10,6 +10,9 @@ Planner → Retriever → Coder → Executor → Reviewer
 Built by **Ayush Kumar Gupta**.
 
 ---
+<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/33dd0508-7e92-4c94-a136-298e95be16b4" />
+
+---
 
 ## Architecture
 
