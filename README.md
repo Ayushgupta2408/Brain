@@ -6,7 +6,7 @@ by five cooperating agents instead of one big prompt:
 ```
 Planner → Retriever → Coder → Executor → Reviewer
 ```
-
+ 
 Built by **Ayush Kumar Gupta**.
 
 ---
